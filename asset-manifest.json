@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recording-extension/static/css/main.a25975d4.css",
+    "main.js": "/recording-extension/static/js/main.d2cf0ea6.js",
+    "static/media/woman-using-smartphone-technology 2.png": "/recording-extension/static/media/woman-using-smartphone-technology 2.d4a182a5467fa04a6896.png",
+    "static/media/father-and-son.png": "/recording-extension/static/media/father-and-son.46266731bb8a38fc44e9.png",
+    "static/media/woman-using-laptop.png": "/recording-extension/static/media/woman-using-laptop.5ccde1ea6c9887ab34ee.png",
+    "static/media/features-dashboard.png": "/recording-extension/static/media/features-dashboard.eacccb66b0c31a673255.png",
+    "static/media/how-it-works.png": "/recording-extension/static/media/how-it-works.ad7df6749b035fdcf17f.png",
+    "static/media/footer-logo.svg": "/recording-extension/static/media/footer-logo.a014130a57fc234cb361e2353b166110.svg",
+    "static/media/logo.svg": "/recording-extension/static/media/logo.43716b1435f2d49a2924a5c53ba3e8e4.svg",
+    "static/media/whatsapp.svg": "/recording-extension/static/media/whatsapp.8447bbb7be65b21baa72b4a5a11fdbf9.svg",
+    "static/media/telegram.svg": "/recording-extension/static/media/telegram.e69a59c69f3c0b5e205e8bd1c24cb3f7.svg",
+    "static/media/facebook.svg": "/recording-extension/static/media/facebook.36e4a87dec638ee108e5efa09110e98a.svg",
+    "static/media/edit.svg": "/recording-extension/static/media/edit.281a3a490fa6cae8cc104f06fbac4d03.svg",
+    "index.html": "/recording-extension/index.html",
+    "static/media/copy.svg": "/recording-extension/static/media/copy.a08071ccac67b25347165cc778f95c05.svg",
+    "main.a25975d4.css.map": "/recording-extension/static/css/main.a25975d4.css.map",
+    "main.d2cf0ea6.js.map": "/recording-extension/static/js/main.d2cf0ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25975d4.css",
+    "static/js/main.d2cf0ea6.js"
+  ]
+}
